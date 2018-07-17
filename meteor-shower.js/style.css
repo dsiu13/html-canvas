@@ -1,0 +1,32 @@
+body, html {
+  background-color: #000;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+canvas {
+  position:absolute;top:0;left:0
+}
+
+/* .meteor {
+  border: 2px solid transparent;
+  border-bottom: 60px solid #fff;
+  position: absolute;
+  transform-origin: top center;
+  opacity: 0;
+}
+.meteor:after {
+  content: '';
+  position: absolute;
+  top: 58px;
+  left: 50%;
+  height: 4px;
+  width: 4px;
+  border-radius: 100%;
+  background: #fff;
+  transform: translateX(-50%);
+  box-shadow: 0 0 15px 0 #fff;
+} */
